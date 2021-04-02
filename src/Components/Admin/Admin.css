@@ -1,0 +1,18 @@
+
+.sidebar{
+    /* float: left; */
+    /* width: 40%; */
+    text-align: center;
+    box-shadow: 0 5px 10px black;
+    height: 80vh;
+}
+.sidebar .list{
+    display: block;
+    color: white;
+    text-decoration: none !important;
+    font-size: 14px;
+    padding: 14px 25px
+}
+.half{
+    margin-left: 10%;
+}
